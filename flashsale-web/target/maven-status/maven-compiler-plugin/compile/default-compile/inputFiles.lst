@@ -1,0 +1,13 @@
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/config/RedissonConifg.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/controller/ActivityInfoController.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/config/RabbitmqConfig.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/controller/OrderController.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/config/RedisConfig.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/config/SchedulerConfig.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/enums/StatusCodeEnums.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/controller/StockController.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/dto/BaseResponse.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/controller/UserController.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/FlashSaleApplication.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/enums/OrderStatusEnums.java
+/Users/lijinlong02/alibaba/flashsale/flashsale-web/src/main/java/com/muse/flashsale/controller/ProductController.java
